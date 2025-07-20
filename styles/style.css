@@ -34,9 +34,10 @@
 }
 
 #hero .hero-subtitle {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 23px;
   line-height: 35px;
+  opacity: 0.8;
 }
 
 #hero .hero-heading {
@@ -47,9 +48,10 @@
 }
 
 #hero .hero-description {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 16px;
   line-height: 25px;
+  opacity: 0.7;
 }
 
 #hero .hero-button {
