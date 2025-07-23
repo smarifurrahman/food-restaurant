@@ -20,19 +20,18 @@
   display: flex;
   padding: 0 50px;
   background-color: #ffffff;
-  box-shadow: 50px 5px 5px black;
 }
 
 .header-content .logo {
   width: 40%;
-  height: 50px;
+  height: 43px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
 
 .header-content .logo img {
-  height: 50px;
+  height: 43px;
 }
 
 .header-content .contact-info {
@@ -45,7 +44,7 @@
 .color {
   position: relative;
   width: 449px;
-  height: 50px;
+  height: 43px;
   background: #52c303;
   overflow: hidden;
   margin-right: 50px;
@@ -79,13 +78,6 @@
   width: 30px;
   height: 30px;
   margin: 0 10px;
-}
-
-.navbar {
-  box-shadow: inset 0 3px 5px rgba(255, 0, 0, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.15);
-  z-index: 4;
-  position: relative;
 }
 
 .navbar ul {
